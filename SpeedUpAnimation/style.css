@@ -1,6 +1,6 @@
 body {
   height: 100vh;
-  width: 95%;
+  width: 100%;
   /* background-image: url("./Platform.png");
     background-size: cover; */
 }
@@ -10,8 +10,8 @@ body {
   justify-content: center;
 }
 #platform-svg {
-  width: 87%;
-  height: 75%;
+  width: 95%;
+  height: 95%;
 }
 
 #graph-mask {
